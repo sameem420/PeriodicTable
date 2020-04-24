@@ -1,5 +1,5 @@
 # WEB-PeriodicTable
-Simple periodic table designed using Pure HTML, CSS
+Periodic table designed using HTML, CSS
 
 DEMO:-
 
