@@ -1,4 +1,4 @@
-# WEB-PeriodicTable
+# PeriodicTable
 Periodic table designed using HTML, CSS
 
 DEMO:-
